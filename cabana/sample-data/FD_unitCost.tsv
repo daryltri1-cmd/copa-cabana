@@ -1,0 +1,6 @@
+"Item_Name"	"Item_Code"	"Source"	"notes"	"per_unit"	"cost_perunit"	"date_updated"	"unit"
+"Chicken thigh"	"CHK.thigh"	"demo grocer"	""	"16"	"8.00"	"2026-01-01"	"lb:oz"
+"Chicken stock"	"STK.chick"	"demo grocer"	""	"4"	"3.20"	"2026-01-01"	"cup"
+"Butter"	"DRY.butter"	"demo grocer"	""	"16"	"4.80"	"2026-01-01"	"lb:oz"
+"Long grain rice"	"DRY.rice"	"demo grocer"	""	"32"	"2.40"	"2026-01-01"	"lb:oz"
+"Lemon zest"	"ZST.lemon"	"demo grocer"	"unit deliberately disagrees with the recipe"	"16"	"5.00"	"2026-01-01"	"lb:oz"

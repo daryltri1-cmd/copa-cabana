@@ -1,0 +1,5 @@
+"Item_Code"	"Item_Name"	"Qty_On_Hand"	"Unit"	"Bulk_Qty"	"Reorder_At"	"Location"	"Stale_After_Days"	"Updated"
+"CHK.thigh"	"Chicken thigh"	"8"	"lb:oz"	"16"	"0"	"Walk-in"	"7"	"2026-01-01"
+"STK.chick"	"Chicken stock"	"1"	"cup"	"4"	"0"	"Dry"	"30"	"2026-01-01"
+"DRY.butter"	"Butter"	"16"	"lb:oz"	"16"	"0"	"Cold"	"60"	"2026-01-01"
+"DRY.rice"	"Long grain rice"	"0"	"lb:oz"	"32"	"0"	"Dry"	"180"	"2026-01-01"

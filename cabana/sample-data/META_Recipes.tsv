@@ -1,0 +1,4 @@
+"Recipe_Name"	"Recipe_Code"	"notes"	"type"	"per_unit"	"unit"	"date_updated"	"course"	"requires_simmer"	"microwave_instructions"
+"Citrus Herb Chicken"	"MAIN_CitrusHerbChicken"	"fictional plate"	"Meal"	"1"	"each"	"2026-01-01"	"protein"	"N"	""
+"Pan Sauce"	"SUB_PanSauce"	"fictional reduction"	"Sauce"	"1"	"cup"	"2026-01-01"	"side"	"Y"	""
+"Herb Rice"	"SIDE_HerbRice"	"fictional side"	"Side"	"1"	"each"	"2026-01-01"	"side"	"N"	""

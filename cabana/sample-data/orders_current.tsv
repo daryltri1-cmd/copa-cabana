@@ -1,0 +1,4 @@
+"Status"	"Flag"	"customer_name"	"customer_email"	"order_number"	"delivery_info"	"customer_notes"	"meal_id"	"menu_item_name"	"quantity"	"Cal-Pro-Carb-Fat-Sug-Sod"	"GROSS-TAX-DISC"
+"Received"	""	"Jordan Lee"	"jordan.lee@example.com"	"1001"	"Saturday kitchen pickup"	"no cilantro"	"M1"	"Citrus Herb Chicken"	"2"	"520-42-38-18-4-640"	"24.00-1.98-0.00"
+"Cook"	""	"Sam Patel"	"sam.patel@example.com"	"1002"	"Saturday kitchen pickup"	""	"M2"	"Citrus Herb Chicken"	"2"	"520-42-38-18-4-640"	"24.00-1.98-0.00"
+"Complete"	""	"Riley Chen"	"riley.chen@example.com"	"0990"	"Previous week pickup"	""	"M0"	"Citrus Herb Chicken"	"3"	"520-42-38-18-4-640"	"36.00-2.97-0.00"
