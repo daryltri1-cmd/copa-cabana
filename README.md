@@ -6,7 +6,7 @@ Operational analytics for a weekly meal-prep kitchen in Houston.
 
 **CABANA** is the staff application. It turns those orders into a bill of materials, a shopping list, prep and cook sheets, and a week-level production summary. It runs locally for the kitchen. It was never the public website.
 
-Daryl Trinidad designed and built both. The storefront ran in production through September 2026 and is offline. Source for both production apps stays in private repositories. This repo is the public account of how they fit together, plus a small runnable sketch of the kitchen rules on **invented** orders, recipes, and prices.
+Daryl Trinidad designed and built both. The shop stopped taking orders in August 2026. The AWS host stayed up until it was terminated in September 2026. Source for both production apps stays in private repositories. Real recipes, formulas, and costs stay private too. This repo is the public account of how the two systems fit together, plus a small runnable sketch on invented orders and prices. Citrus Herb Chicken is a made-up dish.
 
 ## What the kitchen has to answer
 
@@ -82,4 +82,4 @@ No install. Node 20 or newer.
 
 ## What is not here
 
-Customer names, emails, real orders, tax filings, supplier prices, the live menu, hostnames, keys, and deploy credentials are not in this repository. The files under `cabana/sample-data/` are written for the demo. They are not an export from the kitchen.
+Real recipes, formulas, supplier costs, customer names, emails, orders, tax filings, hostnames, keys, and deploy credentials are not in this repository. The files under `cabana/sample-data/` are written for the demo. They are not an export from the kitchen.

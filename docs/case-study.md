@@ -2,7 +2,7 @@
 
 **Daryl Trinidad** — owner and lead engineer, The COPA Kitchen.
 
-The storefront ran in production through September 2026 and is offline. CABANA, the kitchen application, stays on the kitchen machine. This write-up is the public record of the system. The runnable sample uses invented data.
+The shop stopped taking orders in August 2026. The AWS host stayed up until it was terminated in September 2026. CABANA, the kitchen application, stays on the kitchen machine. This write-up is the public record of the system. The runnable sample uses invented orders, recipes, and prices. Real formulas and costs stay private.
 
 ## 1. Summary
 
@@ -72,4 +72,4 @@ I designed the schemas, the APIs, the validation rules, and the operator workflo
 
 The habits come from a decade as an integration engineer at Tavio (2013–2025): ETL, schema mapping, and reject-on-mismatch imports across HRIS and payroll systems. The mechanical engineering degree from Stony Brook (2012) shows up in yield scaling and unit consistency.
 
-The same standard is the point of the sample in this repo. [`cabana/demo.mjs`](../cabana/demo.mjs) scales a nested recipe, applies a documented simmer factor to liquids only, refuses a unit mismatch, and prices the shortage in whole packages. The names, emails, and prices in that sample are fictional.
+The same standard is the point of the sample in this repo. [`cabana/demo.mjs`](../cabana/demo.mjs) scales a nested recipe, applies a documented simmer factor to liquids only, refuses a unit mismatch, and prices the shortage in whole packages. The recipes, names, emails, and prices in that sample are fictional.

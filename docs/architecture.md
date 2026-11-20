@@ -64,7 +64,7 @@ Imports reject a file whose header does not match the canonical column order. Qu
 
 The commerce stack built as one Node host behind nginx: TLS at the proxy, the API and the storefront on the same machine. CABANA stayed a local staff app — browser plus API on the kitchen machine — and did not replace the public site.
 
-The storefront was taken offline in September 2026. CABANA remains the local tool for the kitchen. Neither codebase is published here.
+The shop stopped taking orders in August 2026. The AWS host was terminated in September 2026. CABANA remains the local tool for the kitchen. Neither codebase is published here.
 
 ## Related pages
 

@@ -10,7 +10,7 @@ The customer-facing half of the system. Production source stays private. This pa
 - Card payments through Square while the shop was live
 - One host behind nginx while it was deployed
 
-The public hostname served the shop through September 2026. The instance was then shut down. There is no live demo to click.
+The shop stopped taking orders in August 2026. The AWS instance was shut down in September 2026. There is no live demo to click.
 
 ## What a customer could do
 
