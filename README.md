@@ -6,6 +6,8 @@ Operational analytics for a weekly meal-prep kitchen in Houston.
 
 **CABANA** is the staff application. It turns those orders into a bill of materials, a shopping list, prep and cook sheets, and a week-level production summary. It runs locally for the kitchen. It was never the public website.
 
+The engineering claim is the handoff: a settled order becomes a validated TSV lock file, and the kitchen imports that file into demand, cost, and a shopping list.
+
 Daryl Trinidad designed and built both. The shop stopped taking orders in August 2026. The AWS host stayed up until it was terminated in September 2026. Source for both production apps stays in private repositories. Real recipes, formulas, and costs stay private too. This repo is the public account of how the two systems fit together, plus a small runnable sketch on invented orders and prices. Citrus Herb Chicken is a made-up dish.
 
 ## What the kitchen has to answer
